@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "stylesheet.css",
+	"sources": [
+		"stylesheet.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\r\n",
+		"\r\n\r\nbody { color: black;\r\n\t\tbackground-color: lightgrey;\r\n\t\ttext-align: center;\r\n\t  font-family: Calibri, sans-serif;\r\n}\r\n\r\n#outer-wrapper {\twidth: 90%;\r\n\t\t\t\tmargin: 0 auto 0 auto;\r\n}\r\n\r\nfooter { background-color: inherit;\r\n\r\n\t\t\t\t\t\t\tpadding: 10px;\r\n}\r\n\r\nheader { background-color: lightgrey; padding: 0 2% 2% 0;\r\n}\r\n\r\nfooter { font-size: 0.75em;\r\n\t   text-align: center;\r\n}\r\n\r\na {\r\n\tcolor: black;\r\n}\r\n\r\nimg { float: center;\r\n}\r\n\r\n.rightmargin { margin-right: 2%;\r\n}\r\n\r\nh2 { font-family: Verdana, sans-serif; padding-top: 1%;\r\n}\r\n\r\n#grad {\r\n\r\n}\r\n\r\n.clearfloat { clear: both;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": "ACEA,AAAA,IAAI,CAAC,EAAE,KAAK,EAAE,KAAK,EACjB,gBAAgB,EAAE,SAAS,EAC3B,UAAU,EAAE,MAAM,EACjB,WAAW,EAAE,mBAAmB,GAClC;;AAED,AAAA,cAAc,CAAC,EAAE,KAAK,EAAE,GAAG,EACvB,MAAM,EAAE,aAAa,GACxB;;AAED,AAAA,MAAM,CAAC,EAAE,gBAAgB,EAAE,OAAO,EAE3B,OAAO,EAAE,IAAI,GACnB;;AAED,AAAA,MAAM,CAAC,EAAE,gBAAgB,EAAE,SAAS,EAAE,OAAO,EAAE,SAAS,GACvD;;AAED,AAAA,MAAM,CAAC,EAAE,SAAS,EAAE,MAAM,EACtB,UAAU,EAAE,MAAM,GACrB;;AAED,AAAA,CAAC,CAAC,EACD,KAAK,EAAE,KAAK,GACZ;;AAED,AAAA,GAAG,CAAC,EAAE,KAAK,EAAE,MAAM,GAClB;;AAED,AAAA,YAAY,CAAC,EAAE,YAAY,EAAE,EAAE,GAC9B;;AAED,AAAA,EAAE,CAAC,EAAE,WAAW,EAAE,mBAAmB,EAAE,WAAW,EAAE,EAAE,GACrD;;AAMD,AAAA,WAAW,CAAC,EAAE,KAAK,EAAE,IAAI,GACxB"
+}
